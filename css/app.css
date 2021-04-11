@@ -1,6 +1,10 @@
 body {
     background: pink;
 }
+.webpage-links{
+    display:flex;
+
+}
 
 h1{
     text-align:center;
